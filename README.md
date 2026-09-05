@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @boisjere
-- 👀 I’m interested in PKM (Personal Knowledge Management) projects and fiction editing
-- 🌱 I’m currently learning about the Story Grid editing process
+- 👋 Hi, I’m @boisjere, a writer and editor taking the "Docs like Code" approach to everything I write.
+- 👀 No code to see here at the moment. It would have to be vibe code if I ever did any. I'm just a writer.
+- 🌱 I’m currently writing a book about mentoring.
 - 📫 How to reach me: boisjere@kayasta.com
 
 <!---
